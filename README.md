@@ -1,0 +1,5 @@
+- update Delete method in Controller by adding DeleteOnUtc property which additionally informs us when a given form was deleted
+- update endpot which returns the value of all shares in the given currency and makes it more clear by breaking it down into methods
+- addition of logic that only fetches data once every 24 hours
+- added some unit tests for methods in services
+- grouping classes for better readability
